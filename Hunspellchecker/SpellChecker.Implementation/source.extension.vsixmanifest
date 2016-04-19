@@ -37,6 +37,14 @@
                 <Edition>Premium</Edition>
                 <Edition>Pro</Edition>
             </VisualStudio>
+            <VisualStudio Version="14.0">
+                <Edition>Enterprise</Edition>
+                <Edition>Professional</Edition>
+                <Edition>Community</Edition>
+                <Edition>Ultimate</Edition>
+                <Edition>Premium</Edition>
+                <Edition>Pro</Edition>
+            </VisualStudio>
         </SupportedProducts>
         <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />
         <SystemComponent>false</SystemComponent>
